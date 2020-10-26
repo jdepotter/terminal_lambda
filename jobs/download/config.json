@@ -1,0 +1,9 @@
+{
+    "sites": [
+        {
+            "target": "fenix",
+            "url": "https://www.fenixmarineservices.com/empty-receiving/",
+            "type": "csv"
+        }
+    ]
+}
